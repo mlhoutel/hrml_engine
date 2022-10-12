@@ -1,0 +1,16 @@
+{
+    BasedOnStyle: Google,
+    UseTab: Never,
+    IndentWidth: 4,
+    TabWidth: 4,
+    ColumnLimit: 200,
+    AllowAllParametersOfDeclarationOnNextLine: false,
+    BinPackParameters: false,
+    BinPackArguments: false,
+    BreakBeforeBraces: Attach,
+    AllowShortFunctionsOnASingleLine: Empty,
+    AllowShortIfStatementsOnASingleLine : Always,
+    AllowShortBlocksOnASingleLine: Always,
+    AllowShortCaseLabelsOnASingleLine: true,
+    SpaceInEmptyBlock: true,
+}
